@@ -1,1 +1,2 @@
-I am in branchB
+I am in modifed branchB
+Added one more line in branchB

@@ -1,0 +1,3 @@
+This is my first file
+I am learning git from basics
+Will master git within a week

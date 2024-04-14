@@ -1,0 +1,3 @@
+Its my second file
+I am in process of learning git
+Its always goot to start with basics

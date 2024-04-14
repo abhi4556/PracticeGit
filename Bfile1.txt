@@ -1,2 +1,2 @@
 I am in modifed branchB
-Added chenges from branchA
+Added one more line in branchB and updating the line
